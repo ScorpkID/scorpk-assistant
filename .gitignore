@@ -28,3 +28,6 @@ keystore.properties
 
 # Kotlin
 .kotlin/
+
+# Version de Windows (vive en su propio repo: ScorpkID/scorpk-windows)
+/SCORPKWINDOWS/
