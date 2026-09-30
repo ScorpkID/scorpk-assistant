@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Secretos (Fireworks / Supabase)
+.env
+
+# Firma de release y APKs generados (secretos: nunca versionar)
+keystore.properties
+*.jks
+*.keystore
+/releases/
+
+# Sitio web (vive en su propio repo: ScorpkID/scorpk-web)
+/PAGINAOFICIALSCORPK/
+
+# Kotlin
+.kotlin/

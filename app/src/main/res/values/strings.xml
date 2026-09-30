@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scorpk</string>
+    <string name="accessibility_service_label">Scorpk Automatización</string>
+    <string name="accessibility_service_description">Permite a Scorpk leer el contenido de la pantalla, pulsar botones, escribir texto y ejecutar gestos y acciones globales (atrás, inicio, notificaciones, recientes) cuando se lo pides por voz o texto.</string>
+    <string name="wake_word_channel_name">Escucha de voz</string>
+    <string name="wake_word_channel_description">Notificación persistente mientras Scorpk escucha \"Hey Scorpk\".</string>
+    <string name="wake_word_notification_title">Scorpk está escuchando</string>
+    <string name="wake_word_notification_text">Di \"Oye Scorpk\" para abrir el asistente.</string>
+    <string name="wake_word_notification_stop">Detener</string>
+</resources>
